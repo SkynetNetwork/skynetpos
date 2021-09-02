@@ -187,7 +187,7 @@ if platform.system() == "Windows":
     setup(
         name="skynetpos",
         author="Mariano Sorgente",
-        author_email="mariano@skynet.net",
+        author_email="mariano@chia.net",
         description="Skynet proof of space plotting, proving, and verifying (wraps C++)",
         license="Apache License",
         python_requires=">=3.7",
@@ -203,7 +203,7 @@ else:
     setup(
         name="skynetpos",
         author="Mariano Sorgente",
-        author_email="mariano@skynet.net",
+        author_email="mariano@chia.net",
         description="Skynet proof of space plotting, proving, and verifying (wraps C++)",
         license="Apache License",
         python_requires=">=3.7",
