@@ -112,4 +112,4 @@ public:
     }
 };
 
-#endif  // CHIAPOS_ENTRY_SIZES_HPP
+#endif  // SKYNETPOS_ENTRY_SIZES_HPP
