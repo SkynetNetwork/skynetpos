@@ -1,4 +1,4 @@
-// Copyright 2018 Chia Network Inc
+// Copyright 2018 Skynet Network Inc
 
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -32,7 +32,7 @@
 #include <vector>
 #include <memory>
 
-#include "chia_filesystem.hpp"
+#include "skynet_filesystem.hpp"
 
 #include "calculate_bucket.hpp"
 #include "encoding.hpp"
